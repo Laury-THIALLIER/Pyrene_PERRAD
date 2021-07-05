@@ -81,6 +81,20 @@ header {
     padding: 20px 75px;
 }
 
+.right a:hover {
+    background-color: rgba(71, 123, 171, 0);
+    color: white;
+    box-shadow: 0 0 0 2px white inset;
+    cursor: pointer;
+}
+
+.left a:hover {
+    background-color: rgba(114, 54, 122, 0);
+    color: white;
+    box-shadow: 0 0 0 2px white inset;
+    cursor: pointer;
+}
+
 .left a {
     color: #72367A;
 }

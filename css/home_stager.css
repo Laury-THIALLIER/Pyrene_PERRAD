@@ -141,6 +141,13 @@ body {
     z-index: 2;
 }
 
+.card a:hover {
+    background-color: rgba(255, 255, 255, 1);
+    color: #477BAB;
+    box-shadow: 0 0 0 2px #477BAB inset;
+    cursor: pointer;
+}
+
 /* Présentation */
 
 .introduction {
@@ -323,7 +330,7 @@ body {
 }
 
 .formule-button button:hover {
-    background-color: #5f92c2;
+    background-color: rgba(255, 255, 255, 0);
     color: white;
     box-shadow: 0 0 0 2px white inset;
     cursor: pointer;
@@ -425,10 +432,6 @@ form .case input {
     margin-bottom: 50px;
 }
 
-form .case input:focus {
-    border-color: #477BAB;
-}
-
 form textarea {
     resize: none;
     max-width: 600px;
@@ -443,8 +446,13 @@ form textarea {
     font-family: Roboto;
 }
 
+form textarea:focus {
+    border-color: #477BAB;
+}
+
 form input:focus {
     outline: none;
+    border-color: #477BAB;
 }
 
 form textarea:focus {
@@ -466,6 +474,13 @@ form textarea:focus {
     padding: 20px 70px 20px 70px;
     margin-top: 50px;
     border-radius: 2px;
+}
+
+.button button:hover {
+    background-color: rgba(255, 255, 255, 0);
+    color: #477BAB;
+    box-shadow: 0 0 0 2px #477BAB inset;
+    cursor: pointer;
 }
 
 .link {
