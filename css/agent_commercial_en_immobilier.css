@@ -1788,6 +1788,8 @@ footer a:hover {
         font-size: 24px;
         font-weight: 700;
         color: #477BAB;
+        padding: 20px;
+        text-align: center;
     }
     
     .link:hover {
