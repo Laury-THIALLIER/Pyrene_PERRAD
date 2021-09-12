@@ -38,8 +38,8 @@
                         <h2>Meyrieux-Trouet</h2>
                     </div>
                     <div class="deco">
-                        <img class="big-ellipse" src="../img/Grande_ellipse_bleue.png">
-                        <img class="small-ellipse" src="../img/Petite_ellipse_bleue.png">
+                        <img class="big-ellipse" src="../img/Grande_ellipse_bleue.png" alt="Grand rond décoratif">
+                        <img class="small-ellipse" src="../img/Petite_ellipse_bleue.png" alt="Petit rond décoratif">
                     </div>
                     <a href="#contact">Contactez-moi</a>
                 </div>
@@ -100,7 +100,7 @@
                             <li><img class="check" src="../img/Check.png" alt="">Conseil en Home Staging</li>
                         </ul>
                         <div class="formule-button">
-                            <a href="#contact"><button>Contactez-moi</button></a>
+                            <a href="#contact">Contactez-moi</a>
                         </div>
                     </div>
                     <div class="formule">
@@ -115,7 +115,7 @@
                             <li><img class="check" src="../img/Check.png" alt="">Petit nettoyage (interrupteurs, poignets, plan de travail, toile d’araignée…)</li>
                         </ul>
                         <div class="formule-button">
-                            <a href="#contact"><button>Contactez-moi</button></a>
+                            <a href="#contact">Contactez-moi</a>
                         </div>
                     </div>
                     <div class="formule">
@@ -131,7 +131,7 @@
                             <li><img class="check" src="../img/Check.png" alt="">Conseils en rédaction d’annonce</li>
                         </ul>
                         <div class="formule-button">
-                            <a href="#contact"><button>Contactez-moi</button></a>
+                            <a href="#contact">Contactez-moi</a>
                         </div>
                     </div>
                 </div>
@@ -186,7 +186,7 @@
                                 <textarea placeholder="Écrivez votre message..." name="message" required></textarea>
                             </div>
                             <div class="button">
-                                <button href="#">Envoyer</button>
+                                <button>Envoyer</button>
                             </div>
                         </form>
                         <?php 

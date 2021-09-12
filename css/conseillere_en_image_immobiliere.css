@@ -325,14 +325,17 @@ body {
     border-radius: 50%;
 }
 
-.formule-button a {
+.formule-button {
     display: flex;
     justify-content: center;
 }
 
-.formule-button button {
-    background-color: white;
+.formule-button a {
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
     color: #477BAB;
+    background-color: white;
     border: 0px;
     font-size: 14px;
     font-weight: 700;
@@ -342,7 +345,7 @@ body {
     border-radius: 2px;
 }
 
-.formule-button button:hover {
+.formule-button a:hover {
     background-color: rgba(255, 255, 255, 0);
     color: white;
     box-shadow: 0 0 0 2px white inset;

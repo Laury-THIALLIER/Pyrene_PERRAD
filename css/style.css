@@ -156,11 +156,9 @@ footer a:hover {
     
     header {
         position: relative;
-        flex-direction: flex;
     }
     
     .infos {
-        flex-direction: flex;
         align-items: center;
     }
     

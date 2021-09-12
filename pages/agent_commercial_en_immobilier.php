@@ -39,8 +39,8 @@
                         <h2>Meyrieux-Trouet</h2>
                     </div>
                     <div class="deco">
-                        <img class="big-ellipse" src="../img/Grande_ellipse.png">
-                        <img class="small-ellipse" src="../img/Petite_ellipse.png">
+                        <img class="big-ellipse" src="../img/Grande_ellipse.png" alt="Grand rond décoratif">
+                        <img class="small-ellipse" src="../img/Petite_ellipse.png" alt="Petit rond décoratif">
                     </div>
                     <a href="#contact">Contactez-moi</a>
                 </div>
@@ -158,7 +158,7 @@
                                 <textarea placeholder="Écrivez votre message..." name="message" required></textarea>
                             </div>
                             <div class="button">
-                                <button href="#">Envoyer</button>
+                                <button>Envoyer</button>
                             </div>
                         </form>
                         <?php 
