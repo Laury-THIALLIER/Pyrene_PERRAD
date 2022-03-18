@@ -3,7 +3,6 @@
 ?>
 <html lang="fr">
     <head>
-        <meta name="robots" content="noindex, nofollow">
         <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -56,7 +55,7 @@
                     <p>
                         Pour mes proches je suis Pyrène, en couple et mère de deux filles, conseillère municipale de la commune de Meyrieux-Trouet. Investisseuse dans l’immobilier depuis mes 20 ans. Passionnée de moto et de cuisine. Sensible aux démarches écologiques. Organisatrice de rencontres conviviales.
                         <br><br>
-                        Pour vous je suis Pyrène, conseillère en immobilier sur l’Avant Pays Savoyard et le Bourget du Lac. Dans ce milieu depuis 2010, j’ai été investisseuse, clerc de notaire et aujourd’hui agent commercial en immobilier. J’aime partager ma passion de l’immobilier et réellement aider vendeurs et acquéreurs par un accompagnement complet. Pour toutes les étapes de votre projet, je saurai mettre mon expertise à votre service pour vous guider vers les solutions adaptées aux réalités du marché.
+                        Pour vous je suis Pyrène, conseillère en immobilier sur l’Avant Pays Savoyard et le Bourget du Lac. Dans ce milieu depuis 2010, j’ai été investisseuse, clerc de notaire et aujourd’hui agent commercial en immobilier. J’aime partager ma passion de l’immobilier et réellement aider vendeurs et acquéreurs par un accompagnement complet. Je saurai mettre mon expertise à votre service pour vous aider à mettre en valeur votre bien et vous guider dans la mise en vente. Ce qui vous aidera à vendre plus vite et plus cher.
                     </p>
                 </div>
                 <div class="citation">
@@ -91,7 +90,7 @@
                 <h2>Les formules</h2>
                 <div class="formules">
                     <div class="formule">
-                        <h3>1er forfait</h3>
+                        <h3>Formule Essentiel</h3>
                         <h5>3€ du m²</h5>
                         <img class="deco-tarifs" src="../img/Deco_tarifs.png" alt="">
                         <ul>
@@ -104,11 +103,11 @@
                         </div>
                     </div>
                     <div class="formule">
-                        <h3>2ème forfait</h3>
+                        <h3>Formule Confort</h3>
                         <h5>900€</h5>
                         <img class="deco-tarifs" src="../img/Deco_tarifs.png" alt="">
                         <ul>
-                            <li><img class="check" src="../img/Check.png" alt="">Forfait 1 +</li>
+                            <li><img class="check" src="../img/Check.png" alt="">Formule Essentiel +</li>
                             <li><img class="check" src="../img/Check.png" alt="">Dépersonnalisation de la décoration : suppression des éléments de décoration trop personnels pour créer une apparence neutre (Mise en carton soignée)</li>
                             <li><img class="check" src="../img/Check.png" alt="">Désencombrement et rangement du logement (Mise en carton soignée)</li>
                             <li><img class="check" src="../img/Check.png" alt="">Harmonisation du style</li>
@@ -119,11 +118,11 @@
                         </div>
                     </div>
                     <div class="formule">
-                        <h3>3ème forfait</h3>
+                        <h3>Formule Sérénité</h3>
                         <h5>Sur devis</h5>
                         <img class="deco-tarifs" src="../img/Deco_tarifs.png" alt="">
                         <ul>
-                            <li><img class="check" src="../img/Check.png" alt="">Forfait 2 +</li>
+                            <li><img class="check" src="../img/Check.png" alt="">Formule Confort +</li>
                             <li><img class="check" src="../img/Check.png" alt="">Réparation de menus dégâts (fixer des prises/interrupteur, réparer une poignet, boucher des petits trous, recoller une plainte, …)</li>
                             <li><img class="check" src="../img/Check.png" alt="">Petit travaux de peinture</li>
                             <li><img class="check" src="../img/Check.png" alt="">Gros nettoyage (vitres, portes, façades, terrasse, …)</li>

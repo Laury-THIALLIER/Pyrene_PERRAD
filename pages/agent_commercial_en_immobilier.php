@@ -3,7 +3,6 @@
 ?>
 <html lang="fr">
     <head>
-        <meta name="robots" content="noindex, nofollow">
         <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -60,7 +59,8 @@
                         Pour vous je suis Pyrène, conseillère en immobilier sur l’Avant Pays Savoyard et le Bourget du Lac. Dans ce milieu depuis 2010, j’ai été investisseuse, clerc de notaire et aujourd’hui agent commercial en immobilier. J’aime partager ma passion de l’immobilier et réellement aider vendeurs et acquéreurs par un accompagnement complet. Pour toutes les étapes de votre projet, je saurai mettre mon expertise à votre service pour vous guider vers les solutions adaptées aux réalités du marché.
                     </p>
                     <h3 class="domains">Mes domaines d'action</h3>
-                    <h4>Comment puis-je vous aider ?</h4>
+                    <p>Je ne suis pas là pour prendre trois photos et mettre une annonce sur le bon coin, pour ça vous n’avez pas besoin de moi. Je suis là pour développer une relation de confiance à long terme et réellement comprendre vos besoins. Je suis là pour mettre en place un plan marketing de mise en valeur et de diffusion le plus adapté à votre situation afin de maximiser le prix, réduire le délai, et sécuriser le processus de vente. Je suis là pour vous libérer du temps et vous faire gagner de l’argent en m’occupant à votre place d’un processus complexe et chronophage.</p>
+                    <h4>Comment vais-je vous aider ?</h4>
                     <div class="list">
                         <ul class="list1">
                             <li><img src="../img/Check.png" alt="">Évaluation de votre bien immobilier</li>
